@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SailingWithMalik - Real Estate Wholesaler</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            text-align: center;
+            padding: 50px;
+        }
+
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+        h1 {
+            color: #ffcc00; /* Highlight "Malik" with a different color */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>SailingWith<span style="color: #ffcc00;">Malik</span></h1>
+        <p>Your Gateway to Real Estate Wholesaling</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Hello, I'm SailingWithMalik, a passionate real estate wholesaler. I specialize in connecting buyers and sellers for mutually beneficial deals. With a focus on integrity and efficiency, I strive to provide top-notch wholesale services in the real estate market.</p>
+    </section>
+
+    <section>
+        <h2>Contact Information</h2>
+        <p>Feel free to reach out to me:</p>
+        <p>Email: only1mjw@gmail.com</p>
+        <p>Phone: (404) 946-3732</p>
+    </section>
+
+    <footer>
+        <!-- Follow me section intentionally left blank -->
+    </footer>
+</body>
+</html>
